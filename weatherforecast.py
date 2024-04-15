@@ -1,3 +1,6 @@
+#This is the Fourth Task of the Python Programming in which i had to create a Weather Forecast Application.
+# It will Give the Details when the City is Entered and The API is used from weatherapi
+
 import requests
 def get_weather_forecast(city, api_key):
     url = f'https://api.weatherapi.com/v1/current.json?key={api_key}&q={city}'
