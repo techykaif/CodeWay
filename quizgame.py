@@ -1,3 +1,6 @@
+#This is the Fifth Task of the Python Programming in which i had to create a Quiz App
+# This is a Sample Quiz Test Program which Performs Various Task along with User Stastics.
+
 def quiz():
     global marks
     global total
