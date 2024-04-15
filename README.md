@@ -1,2 +1,2 @@
 # CodeWay
-This is the Repository Where i will upload the CodeWay Internship Projects
+This is the Repository Where i Had uploaded the CodeWay Internship Projects
