@@ -1,5 +1,5 @@
 #This is the Fourth Task of the Python Programming in which i had to create a Weather Forecast Application.
-# It will Give the Details when the City is Entered and The API is used from weatherapi
+# It will Give the Details when the City is Entered in Real Time and The API is used from weatherapi
 
 import requests
 def get_weather_forecast(city, api_key):
