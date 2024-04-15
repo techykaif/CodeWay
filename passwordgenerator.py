@@ -1,3 +1,6 @@
+#This is the Third Task of the Python Programming in which i had to create a Password Generator.
+#It performs on User Choice along with Different Combination of Passwords.
+
 import random,string
 pass_length=int(input("Enter the Lenth of the Password:"))
 includeAlphabets=input("Do You want to Include Alphabets: ")
