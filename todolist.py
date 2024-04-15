@@ -1,3 +1,6 @@
+#This is the First Task of the Python Programming in which i had to create a To-Do List which performs Operations Based on User's Choice
+#it is fully Functional and tested on Different Inputs.
+
 myList=[""]
 def delete():
     deleteKey=int(input("Enter the Task's Number to Delete:"))
